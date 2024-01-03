@@ -1,4 +1,6 @@
-### Hi there 👋
+### [My Website](https://fdreschel.com/)
+
+I’m currently working on a game using C# and Godot. 
 
 <!--
 **network-dev/network-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
